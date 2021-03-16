@@ -6,4 +6,3 @@
 - A simple template is used to display errors.
 - The database is SQLite with a simple table.
 
-#### This project was made for in preparation for a Hivestack interview.
